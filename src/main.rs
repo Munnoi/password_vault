@@ -45,7 +45,7 @@ fn main() {
 
         match input.trim() {
             "1" => {
-                println!("Adding...")
+                println!("Adding...");
                 add_entry();
             }
             "8" => {
